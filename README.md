@@ -1,1 +1,1 @@
-# Xvideo Rss ## A [telegram bot C:](https://telegram.me/xvideosrssbot)#Dependencies```Python3.5pyTelegramBotAPIfeedparser```###Tell me on Telegram [@reymerk](https://telegram.me/reymerk) 
+# Xvideos Rss Telegram Bot## A [telegram bot C:](https://telegram.me/xvideosrssbot)#Dependencies```Python3.5pyTelegramBotAPIfeedparser```###Tell me on Telegram [@reymerk](https://telegram.me/reymerk) 
