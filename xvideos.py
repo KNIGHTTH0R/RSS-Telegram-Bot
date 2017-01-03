@@ -3,7 +3,7 @@ import telebot
 import thread
 import time
 
-bot = telebot.TeleBot('240238338:AAG6fgBFf_klr0erUWH2dmBMKSlT6t8k8Lw')
+bot = telebot.TeleBot('EH VOLEVI!')
 
 def check():
     while True:
